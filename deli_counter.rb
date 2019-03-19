@@ -22,4 +22,4 @@ def now_serving(array)
     person_being_served = array.shift
     puts "Currently serving #{person_being_served}."
   end
-end 
+end
